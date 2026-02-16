@@ -1,0 +1,3 @@
+cd pizza-slider
+cd vite-project
+npm run dev
