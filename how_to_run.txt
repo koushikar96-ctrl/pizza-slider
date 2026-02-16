@@ -1,3 +1,4 @@
+#clone this repo
 cd pizza-slider
 cd vite-project
 npm run dev
